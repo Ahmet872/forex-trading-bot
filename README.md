@@ -4,4 +4,5 @@ A professional multi-strategy automated forex trading system with advanced risk 
 
 ## Status
 
-On developing
+Currently in development  
+Estimated completion: ~1.5 months
